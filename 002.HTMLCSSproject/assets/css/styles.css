@@ -1,0 +1,76 @@
+/*=============== GOOGLE FONTS ===============*/
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+
+/*=============== VARIABLES CSS ===============*/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+/*========== Font and typography ==========*/
+
+/* Responsive typography */
+/*=============== body ===============*/
+body {
+  height: 100vh;
+  font-family: 'Abril Fatface', serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #000;
+}
+
+.heading {
+  font-size: 10rem;
+  font-weight: 900;
+  background: url(../img/image1.jpg);
+  background-size: cover;
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+}
+
+/*=============== BASE ===============*/
+
+/*=============== REUSABLE CSS CLASSES ===============*/
+
+/* Shapes */
+
+/*=============== HEADER & NAV ===============*/
+
+/* Show menu */
+
+/* Change background header */
+
+/* Active link */
+
+/*=============== HOME ===============*/
+
+/* Star animation */
+
+/*=============== BUTTON ===============*/
+
+/*=============== CATEGORY ===============*/
+
+/*=============== ABOUT ===============*/
+
+/*=============== ITEMS ===============*/
+
+/*=============== PARTY ===============*/
+
+/*=============== FOOTER ===============*/
+
+/*=============== SCROLL BAR ===============*/
+
+/*=============== SCROLL UP ===============*/
+
+/* Show Scroll Up*/
+
+/*=============== BREAKPOINTS ===============*/
+/* For small devices */
+
+/* For medium devices */
+
+/* For large devices */
+
+/* For 2K resolutions (2048 x 1152) */

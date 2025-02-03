@@ -1,0 +1,80 @@
+/*=============== GOOGLE FONTS ===============*/
+
+/*=============== VARIABLES CSS ===============*/
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+/*========== Font and typography ==========*/
+
+/* Responsive typography */
+
+/*=============== BASE ===============*/
+body {
+  background: purple;
+}
+
+.card {
+  width: 700px;
+  background: #ccc;
+  padding: 20px;
+  margin: 20px;
+  font-family: sans-serif;
+  line-height: 28px;
+}
+
+/*=============== Scroll Bar ===============*/
+::-webkit-scrollbar {
+  background-color: transparent;
+  width: 11px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(#4158d0, #c850c0, #ffcc70);
+  border-radius: 10px;
+}
+
+/*=============== REUSABLE CSS CLASSES ===============*/
+
+/* Shapes */
+
+/*=============== HEADER & NAV ===============*/
+
+/* Show menu */
+
+/* Change background header */
+
+/* Active link */
+
+/*=============== HOME ===============*/
+
+/* Star animation */
+
+/*=============== BUTTON ===============*/
+
+/*=============== CATEGORY ===============*/
+
+/*=============== ABOUT ===============*/
+
+/*=============== ITEMS ===============*/
+
+/*=============== PARTY ===============*/
+
+/*=============== FOOTER ===============*/
+
+/*=============== SCROLL BAR ===============*/
+
+/*=============== SCROLL UP ===============*/
+
+/* Show Scroll Up*/
+
+/*=============== BREAKPOINTS ===============*/
+/* For small devices */
+
+/* For medium devices */
+
+/* For large devices */
+
+/* For 2K resolutions (2048 x 1152) */
